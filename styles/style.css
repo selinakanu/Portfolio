@@ -1,0 +1,11 @@
+#header {
+  color: blue;
+}
+.sub-text {
+  font-size: 12px;
+  font-weight: 400;
+  color: red;
+}
+blockquote {
+  color: green;
+}
